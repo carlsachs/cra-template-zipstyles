@@ -1,0 +1,19 @@
+{
+  "name": "cra-template-zipstyles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlsachs/cra-template-zipstyles.git"
+  },
+  "author": "Carl Sachs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlsachs/cra-template-zipstyles/issues"
+  },
+  "homepage": "https://github.com/carlsachs/cra-template-zipstyles#readme"
+}
