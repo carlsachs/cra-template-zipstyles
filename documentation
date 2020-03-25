@@ -23,3 +23,14 @@ Put in return (inside of div):
     />
 
 Tweak any of the options in the above code.
+
+React Typist
+------------
+
+npm i react-Typist
+
+import into component
+
+Wrap the div or text in <Typist> 
+
+Done.
