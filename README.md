@@ -28,7 +28,3 @@ Just like regular create-react-app but so much more. This template includes:
 - React Reveal.js
 - react-router-dom
 - React Typist (+ documentation)
-
-## BUSHIDO_STRAP
-
-What is bushido-strap? Well, friend, it is a personal style library of mine. It has a bunch of handy styled-components I've slowly crafted over time. It's already set up in this project. [Check out the documentation here to see everything this modest style library has to offer!](https://www.npmjs.com/package/bushido-strap)
