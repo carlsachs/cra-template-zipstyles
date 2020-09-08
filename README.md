@@ -1,5 +1,9 @@
 # Welcome to ZipStyles by Carl Sachs!
 
+### This was my first every package published to npm.
+
+## Find it here: https://www.npmjs.com/package/cra-template-zipstyles
+
 ## How To Install
 
 ### yarn
